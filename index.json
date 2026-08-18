@@ -12,7 +12,7 @@
         "packageName": "eu.kanade.tachiyomi.extension.es.tmohentairbk",
         "resources": {
           "apkUrl": "https://github.com/RUBIKOF/Mihon-Extensions-RBK/releases/download/v1/tachiyomi-es.tmohentairbk-v1.4.1.apk",
-          "iconUrl": "https://raw.githubusercontent.com/RUBIKOF/Mihon-Extensions-RBK/main/icon.png",
+          "iconUrl": "https://tmohentai.app/storage/settings/H9giO33thJ3S8F5uBeVZUEuqOrHkyfqI0TL6fkUy.png",
           "jarUrl": "https://github.com/RUBIKOF/Mihon-Extensions-RBK/releases/download/v1/tachiyomi-es.tmohentairbk-v1.4.1.jar"
         },
         "extensionLib": "1.4",
