@@ -32,7 +32,7 @@
 </p>
 
 
-Si el botón no funciona, agrega manualmente la URL desde:
+Si estás en PC o el botón no funciona, agrega manualmente la URL desde:
 
 **Mihon → Explorar → Extensiones → Repositorios de extensiones**
 
