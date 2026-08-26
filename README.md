@@ -1,6 +1,7 @@
 <div align="center">
-
-<img src="https://i.ibb.co/dJ4mbbVq/Cabecera-RUBIKOF-Extensions.png" width="750">
+ <a href="#">
+  <img src="https://i.ibb.co/dJ4mbbVq/Cabecera-RUBIKOF-Extensions.png" width="750">
+ </a>
 
 [![Mihon](https://img.shields.io/badge/MIHON-EXTENSIONS-2f80ed?style=for-the-badge)](https://mihon.app/)
 [![Extensions](https://img.shields.io/badge/EXTENSIONS-11-22c55e?style=for-the-badge)](https://github.com/RUBIKOF/Mihon-Extensions-RBK/releases)
@@ -23,6 +24,8 @@
   <a href="https://RUBIKOF.github.io/redirectRBK/?r=mihon://extension-store/?url=https://raw.githubusercontent.com/RUBIKOF/Mihon-Extensions-RBK/main/index.pb">
     <img src="https://i.ibb.co/fVHRqBth/RBK-Extensions.png" alt="Añadir repo a Mihon" width="450">
   </a>
+  <br>
+  <sub>📱 <b>Usa este botón desde Android para añadir el repositorio directamente a Mihon.</b></sub>
   <br>
   <br>
   <br>
