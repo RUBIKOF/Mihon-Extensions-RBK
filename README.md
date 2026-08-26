@@ -17,14 +17,17 @@
 <div align="center">
 
 ### 📲 Instalación rápida
-<br>
-<a href="mihon://extension-store/?url=https://raw.githubusercontent.com/RUBIKOF/Mihon-Extensions-RBK/main/index.pb">
-  <img src="https://i.ibb.co/fVHRqBth/RBK-Extensions.png" alt="Añadir repo a Mihon" width="450">
-</a>
-<br>
-<br>
-<br>
 </div>
+<p align="center">
+  <br>
+  <a href="https://RUBIKOF.github.io/redirectRBK/?r=mihon://extension-store/?url=https://raw.githubusercontent.com/RUBIKOF/Mihon-Extensions-RBK/main/index.pb">
+    <img src="https://i.ibb.co/fVHRqBth/RBK-Extensions.png" alt="Añadir repo a Mihon" width="450">
+  </a>
+  <br>
+  <br>
+  <br>
+</p>
+
 
 Si el botón no funciona, agrega manualmente la URL desde:
 
