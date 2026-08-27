@@ -4,10 +4,10 @@
  </a>
 
 [![Mihon](https://img.shields.io/badge/MIHON-EXTENSIONS-2f80ed?style=for-the-badge)](https://mihon.app/)
-[![Extensions](https://img.shields.io/badge/EXTENSIONS-11-22c55e?style=for-the-badge)](https://github.com/RUBIKOF/Mihon-Extensions-RBK/releases)
+[![Extensions](https://img.shields.io/badge/EXTENSIONS-12-22c55e?style=for-the-badge)](https://github.com/RUBIKOF/Mihon-Extensions-RBK/releases)
 [![Adult](https://img.shields.io/badge/CONTENT-18%2B-e11d48?style=for-the-badge)](#-aviso)
 
-**11 extensiones · múltiples idiomas · actualizaciones desde Mihon**
+**12 extensiones · múltiples idiomas · actualizaciones desde Mihon**
 
 </div>
 
@@ -50,6 +50,7 @@ https://raw.githubusercontent.com/RUBIKOF/Mihon-Extensions-RBK/main/index.pb
 | E-Hentai | 🌐 Multi-idioma | 1.6.1 |
 | HentaiEnvy | 🌐 Multi-idioma | 1.6.1 |
 | HentaiEra | 🌐 Multi-idioma | 1.6.1 |
+| HentaiRun | 🌐 Multi-idioma | 1.6.1 |
 | Hitomi | 🌐 Multi-idioma | 1.6.2 |
 | LectorHentai | 🌐 Multi-idioma | 1.6.1 |
 | Porn Comic | 🌐 Multi-idioma | 1.6.1 |
