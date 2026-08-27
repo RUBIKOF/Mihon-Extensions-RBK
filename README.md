@@ -44,6 +44,7 @@ https://raw.githubusercontent.com/RUBIKOF/Mihon-Extensions-RBK/main/index.pb
 
 ## 🧩 Extensiones
 
+<!-- RBK_EXTENSIONS_TABLE_START -->
 | Extensión | Cobertura | Versión |
 |---|---|---|
 | E-Hentai | 🌐 Multi-idioma | 1.6.1 |
@@ -57,6 +58,7 @@ https://raw.githubusercontent.com/RUBIKOF/Mihon-Extensions-RBK/main/index.pb
 | DoujinHentai | 🇪🇸 Español | 1.6.1 |
 | HManga | 🇪🇸 Español | 1.6.1 |
 | TMOHentai | 🇪🇸 Español | 1.6.1 |
+<!-- RBK_EXTENSIONS_TABLE_END -->
 
 > 🌐 **Multi-idioma** indica que la extensión expone más de un idioma;
 > la cantidad exacta depende de cada fuente.
