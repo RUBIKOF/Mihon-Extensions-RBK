@@ -4,10 +4,10 @@
  </a>
 
 [![Mihon](https://img.shields.io/badge/MIHON-EXTENSIONS-2f80ed?style=for-the-badge)](https://mihon.app/)
-[![Extensions](https://img.shields.io/badge/EXTENSIONS-12-22c55e?style=for-the-badge)](https://github.com/RUBIKOF/Mihon-Extensions-RBK/releases)
+[![Extensions](https://img.shields.io/badge/EXTENSIONS-15-22c55e?style=for-the-badge)](https://github.com/RUBIKOF/Mihon-Extensions-RBK/releases)
 [![Adult](https://img.shields.io/badge/CONTENT-18%2B-e11d48?style=for-the-badge)](#-aviso)
 
-**12 extensiones · múltiples idiomas · actualizaciones desde Mihon**
+**15 extensiones · múltiples idiomas · actualizaciones desde Mihon**
 
 </div>
 
@@ -45,20 +45,23 @@ https://raw.githubusercontent.com/RUBIKOF/Mihon-Extensions-RBK/main/index.pb
 ## 🧩 Extensiones
 
 <!-- RBK_EXTENSIONS_TABLE_START -->
-| Extensión | Cobertura | Versión |
-|---|---|---|
-| E-Hentai | 🌐 Multi-idioma | 1.6.1 |
-| HentaiEnvy | 🌐 Multi-idioma | 1.6.1 |
-| HentaiEra | 🌐 Multi-idioma | 1.6.1 |
-| HentaiRun | 🌐 Multi-idioma | 1.6.1 |
-| Hitomi | 🌐 Multi-idioma | 1.6.2 |
-| LectorHentai | 🌐 Multi-idioma | 1.6.1 |
-| Porn Comic | 🌐 Multi-idioma | 1.6.1 |
-| SexKomix2 | 🌐 Multi-idioma | 1.6.1 |
-| Simply-Hentai | 🌐 Multi-idioma | 1.6.1 |
-| DoujinHentai | 🇪🇸 Español | 1.6.1 |
-| HManga | 🇪🇸 Español | 1.6.1 |
-| TMOHentai | 🇪🇸 Español | 1.6.1 |
+| Extensión | Cobertura | Versión | Actualización |
+|---|---|---|---|
+| E-Hentai | 🌐 Multi-idioma | 1.6.1 | 26/08/2026 |
+| HentaiEnvy | 🌐 Multi-idioma | 1.6.1 | 26/08/2026 |
+| HentaiEra | 🌐 Multi-idioma | 1.6.1 | 26/08/2026 |
+| HentaiRun | 🌐 Multi-idioma | 1.6.1 | 27/08/2026 |
+| Hitomi | 🌐 Multi-idioma | 1.6.2 | 26/08/2026 |
+| LectorHentai | 🌐 Multi-idioma | 1.6.1 | 26/08/2026 |
+| Naisho | 🌐 Multi-idioma | 1.6.1 | 31/08/2026 |
+| Porn Comic | 🌐 Multi-idioma | 1.6.1 | 26/08/2026 |
+| SexKomix2 | 🌐 Multi-idioma | 1.6.1 | 26/08/2026 |
+| Simply-Hentai | 🌐 Multi-idioma | 1.6.1 | 26/08/2026 |
+| DoujinHentai | 🇪🇸 Español | 1.6.1 | 26/08/2026 |
+| HManga | 🇪🇸 Español | 1.6.1 | 26/08/2026 |
+| TMOHentai | 🇪🇸 Español | 1.6.2 | 31/08/2026 |
+| Toonx | 🇪🇸 Español | 1.6.1 | 31/08/2026 |
+| VerMangasPorno | 🇪🇸 Español | 1.6.1 | 31/08/2026 |
 <!-- RBK_EXTENSIONS_TABLE_END -->
 
 > 🌐 **Multi-idioma** indica que la extensión expone más de un idioma;
